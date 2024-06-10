@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="menuOptions">
+        <item>Dashboard</item>
+        <item>Ajustes</item>
+    </array>
+</resources>
+
+

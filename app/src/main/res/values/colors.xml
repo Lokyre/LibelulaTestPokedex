@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fondotextview">#1EA4A4A9</color>
+    <color name="blancoSplash">#FF6B6B</color>
+
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="blueista">#03A9F4</color>
+    <color name="yellowFont">#FFFA00</color>
+    <color name="azulinicio">#004f9f</color>
+
+    <color name="graylowtone">#f2f2f3</color>
+
+    <color name="colorAccent">#FF4081</color>
+    <color name="statusbar_normal">#ac093f</color>
+
+</resources>
